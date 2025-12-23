@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0454675d-4a39-4fc4-845a-0d3bc3a9ae75" /># Ex.07 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 ## Date:22.12.2025
 
 ## AIM:
